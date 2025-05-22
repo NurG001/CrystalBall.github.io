@@ -2,7 +2,7 @@
 
 A mystical web application that predicts your age based on your name using the power of data science and a touch of magic! ✨
 
-![Crystal Ball Demo](https://via.placeholder.com/800x400/1a1a2e/ffffff?text=Crystal+Ball+Age+Predictor)
+![Crystal Ball Demo]([https://via.placeholder.com/800x400/1a1a2e/ffffff?text=Crystal+Ball+Age+Predictor](https://github.com/NurG001/CrystalBall.github.io/blob/main/assets/Icon.png))
 
 ## 🌟 Features
 
